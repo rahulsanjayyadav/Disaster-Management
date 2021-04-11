@@ -1,0 +1,277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"Ma",
+				"marker"
+			],
+			[
+				"h",
+				"head\tTag"
+			],
+			[
+				"user",
+				"userEmp"
+			],
+			[
+				"scr",
+				"scrEmp"
+			],
+			[
+				"em",
+				"employee"
+			],
+			[
+				"ad",
+				"addUser"
+			],
+			[
+				"emp",
+				"empReqt"
+			],
+			[
+				"to",
+				"toEnt"
+			],
+			[
+				"fr",
+				"fromEnt"
+			],
+			[
+				"Emp",
+				"EmpReq"
+			],
+			[
+				"userA",
+				"userAdminEntry"
+			],
+			[
+				"pa",
+				"pack"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"passE",
+				"passEmp"
+			],
+			[
+				"userE",
+				"userEmp"
+			],
+			[
+				"passEm",
+				"passEmpEntry"
+			],
+			[
+				"passA",
+				"passAdminEntry"
+			],
+			[
+				"userEmp",
+				"userEmpEntry"
+			],
+			[
+				"admin",
+				"admin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ADMIN/Desktop/New Text Document.html",
+		"/C/Users/ADMIN/AppData/Local/Temp/DeDeDe$.class",
+		"/C/Users/ADMIN/AppData/Local/Temp/CalculatePercentageOfTotal$$typecreator1$1.class",
+		"/C/Users/ADMIN/AppData/Local/Temp/Temp1_pysparkCCA-master.zip/pysparkCCA-master/arunsBlogs/p5",
+		"/C/Users/ADMIN/AppData/Local/Temp/Temp1_pysparkCCA-master.zip/pysparkCCA-master/arunsBlogs/p4",
+		"/C/Users/ADMIN/AppData/Local/Temp/Temp1_pysparkCCA-master.zip/pysparkCCA-master/arunsBlogs/p6",
+		"/D/Prazz/HADOOP/PYSPARK CHEATSHEET/Spark Dataframe Cheat Sheet.py",
+		"/C/Users/ADMIN/Downloads/13_m6_Hive Class Reference Documents_4.0/Hive Class Reference Documents/custs",
+		"/C/Users/ADMIN/Downloads/13_m6_Hive Class Reference Documents_4.0/Hive Class Reference Documents/Deidentify.java",
+		"/C/Users/ADMIN/Downloads/b47e23da8218af0b9bd9d47f5242d189-1043e6686ff780ca53ac0e06988d998c8b5f4bd0/Spark Dataframe Cheat Sheet.py",
+		"/D/Downloads/Project!/Project!/admin.py",
+		"/D/Downloads/Project!/Project!/project.py",
+		"/D/Downloads/Project!/Project!/employee.py",
+		"/C/Users/ADMIN/Desktop/OS/ospro.py",
+		"/D/Downloads/ospro.py",
+		"/C/Users/ADMIN/Desktop/Project/empReq.py",
+		"/C/Users/ADMIN/Desktop/Project/adminData.py",
+		"/C/Users/ADMIN/Desktop/Project/empData.py",
+		"/C/Users/ADMIN/Desktop/Project/employee.py",
+		"/C/Users/ADMIN/Desktop/Project/admin.py",
+		"/C/Users/ADMIN/Desktop/Project/project.py",
+		"/C/Users/ADMIN/Desktop/Project/snippets.py",
+		"/C/Users/ADMIN/Desktop/Project/snip.py",
+		"/C/Users/ADMIN/Desktop/Project/temp.py",
+		"/C/Users/ADMIN/Desktop/Project.zip",
+		"/C/Users/ADMIN/Desktop/Project/staff/models.py",
+		"/C/Users/ADMIN/Desktop/Project/staff/admin.py",
+		"/C/Users/ADMIN/Desktop/Project/db.sqlite3",
+		"/C/Users/ADMIN/Desktop/Project/Project/settings.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "formproject.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
